@@ -1,6 +1,21 @@
-COMP1010,Lecture,Monday,09:00,11:00
-MATH1007,Practical,Tuesday,11:00,12:00
-STAT1170,Self-Study,Wednesday,14:00,18:00
-ENGG1000,Lecture,Thursday,15:00,17:00
-COMP1729,Practical,Friday,10:00,11:00
-MATH6174,Self-Study,Saturday,09:00,12:00
+Unit Name,Activity Type,Day,Start Time,End Time
+COMP1010,Lecture,Monday,07:00 AM,09:00 AM
+COMP1010,Practical,Sunday,09:00 AM,10:00 AM
+COMP1010,Self Study,Monday,09:00 AM,10:00 AM
+COMP1010,Self Study,Monday,10:00 AM,11:00 AM
+COMP1010,Self Study,Tuesday,01:00 PM,02:00 PM
+COMP1010,Self Study,Tuesday,02:00 PM,03:00 PM
+COMP1010,Self Study,Tuesday,03:00 PM,04:00 PM
+STAT1170,Self Study,Wednesday,02:00 PM,06:00 PM
+ENGG1000,Lecture,Monday,02:00 AM,04:00 AM
+ENGG1000,Practical,Sunday,07:00 AM,08:00 AM
+ENGG1000,Self Study,Monday,11:00 AM,12:00 PM
+ENGG1000,Self Study,Monday,12:00 PM,01:00 PM
+ENGG1000,Self Study,Thursday,01:00 PM,02:00 PM
+ENGG1000,Self Study,Thursday,02:00 PM,03:00 PM
+ENGG1000,Self Study,Thursday,03:00 PM,04:00 PM
+s,Self Study,Monday,01:00 PM,03:00 PM
+s,Self Study,Wednesday,10:00 AM,12:00 PM
+s,Self Study,Friday,09:00 AM,11:00 AM
+s,Lecture,Monday,03:00 PM,05:00 PM
+s,Practical,Saturday,11:00 AM,01:00 PM
